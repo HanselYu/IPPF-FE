@@ -18,14 +18,17 @@ In order to run successfully, the embedding of *ProtT5-XL-UniRef50* requires GPU
 Other hardware equipments are not necessary.
 
 ## 4. Usage
-For each dataset, you could run corresponding *.py* file, cross-validation, independent test and external test are all implemented. We took Anti-bacterial_peptides dataset as an example.
+For each dataset, you could run corresponding *.py* file, train model and external test are all implemented. We took Antibacterial peptides dataset as an example.
 
 ### Train model
-
-### Independent Test
-
+```
+python Pantibacterial.py Train -
+```
 ### External test
 
+```
+python Pantibacterial.py Test test.fasta
+```
 ## 5. References
 
 ## 6. Contact
