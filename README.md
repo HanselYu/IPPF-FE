@@ -14,7 +14,7 @@ pip install -r requirment.txt
 ```
 Notice:
 1. You need install pretrained language modoel *ProtT5-XL-UniRef50*, the link is provided on [ProtT5-XL-U50](https://github.com/agemagician/ProtTrans#models).
-2. YOu could *pip install torch 1.10.1+cu113* by manual download, the link is provided as on [Pytorch](https://download.pytorch.org/whl/torch/).
+2. You also could *pip install torch 1.10.1+cu113* by manual method, the link is provided as on [Pytorch](https://download.pytorch.org/whl/torch/).
 
 ## 3. Requirments
 In order to run successfully, the embedding of *ProtT5-XL-UniRef50* requires GPU. We utilized an NVIDIA GeForce RTX 3080 with 10018MiB to embed peptide or protein sequences to 1024-dimensional vector. And Hand-crafted features could be implemented on personal computer.
