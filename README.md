@@ -33,7 +33,7 @@ python Pantibacterial.py Test test.fasta
 ```
 ### Optional input variables
 ```
--predicted type    e.g. Pantibacterial.py, Phemolytic.py, Pbiofilm_inhibitory.py, PDPP_IV.py, PT3SEs.py, Pcsq.py, Pgpl.py, Pcyclinp.py
+-predicted type    e.g. Pantibacterial.py, Phemolytic.py, Pbiofilm_inhibitory.py, PDPP_IV.py, PT3SEs.py, Pcsq_resolution.py, Pcsq_rfree.py, Pgpl.py, Pcyclinp.py
 -Train or Test    e.g. Train, Test
 -input file    e.g. test.fasta
 ```
