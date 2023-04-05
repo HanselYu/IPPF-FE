@@ -38,6 +38,7 @@ python Pantibacterial.py Test test.fasta
 -input file    e.g. test.fasta
 ```
 ## 5. References
+Please cite the paper [IPPF-FE：An integrated peptide and protein function prediction framework based on fused features and ensemble models](https://academic.oup.com/bib/article-abstract/24/1/bbac476/6834141?redirectedFrom=fulltext).
 
 ## 6. Contact
 If you have any question, you could contact **han.yu@siat.ac.cn**.
